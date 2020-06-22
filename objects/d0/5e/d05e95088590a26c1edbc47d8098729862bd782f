@@ -1,0 +1,20 @@
+{
+	"parent": "builtin/image",
+	"image":"gui:loadingBcg.png",
+	"position_type":"TOP_LEFT",
+	"offset_pos":"TOP_LEFT",
+	"texture":
+	{
+		"x":"0",
+		"y":"0",
+		"width":"1",
+		"height":"1"
+	},
+	"position":
+	{
+		"x":"0",
+		"y":"0",
+		"width":"screen_width + 1",
+		"height":"screen_height + 1"
+	}
+}

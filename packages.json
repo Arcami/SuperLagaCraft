@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : null,
+      "name" : "LagaCraft",
+      "version" : "2020-04-28-21-04-46",
+      "location" : "lagacraft.json",
+      "priority" : 0
+    }
+  ]
+}

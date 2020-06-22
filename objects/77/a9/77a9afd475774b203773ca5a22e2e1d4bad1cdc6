@@ -1,0 +1,14 @@
+{
+	"renders":
+	[
+		"background",
+		"mojang_logo",
+		"tcr_splash_logo",
+		"loading_bar_simple",
+		"loading_bar_simple_percentage"
+	],
+	"functions": [],
+	"factories": [],
+	"actions": [],
+	"variables": {}
+  }

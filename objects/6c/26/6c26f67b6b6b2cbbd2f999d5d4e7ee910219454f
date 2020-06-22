@@ -1,0 +1,12 @@
+{
+	"parent":"sample/loading_bar_standard",
+	"position_type":"BOTTOM_CENTER",
+	"texture": 
+	{
+		"y": "30 / 256.0"
+	},
+	"position":
+	{
+		"y":"-40"
+	}
+}
